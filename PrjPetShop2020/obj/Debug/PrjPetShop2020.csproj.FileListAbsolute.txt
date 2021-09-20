@@ -1,0 +1,9 @@
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\bin\Debug\PrjPetShop2020.exe
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\bin\Debug\PrjPetShop2020.pdb
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.csproj.AssemblyReference.cache
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.Form1.resources
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.Properties.Resources.resources
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.csproj.GenerateResource.cache
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.csproj.CoreCompileInputs.cache
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.exe
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.pdb
