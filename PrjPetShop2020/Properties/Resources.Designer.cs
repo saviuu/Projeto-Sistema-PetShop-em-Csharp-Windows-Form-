@@ -73,6 +73,36 @@ namespace PrjPetShop2020.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _149_1493412_png_file_patinhas_de_cachorro_vetor {
+            get {
+                object obj = ResourceManager.GetObject("149-1493412_png-file-patinhas-de-cachorro-vetor", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _149_1493412_png_file_patinhas_de_cachorro_vetor1 {
+            get {
+                object obj = ResourceManager.GetObject("149-1493412_png-file-patinhas-de-cachorro-vetor1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _149_1493412_png_file_patinhas_de_cachorro_vetor2 {
+            get {
+                object obj = ResourceManager.GetObject("149-1493412_png-file-patinhas-de-cachorro-vetor2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _473240 {
             get {
                 object obj = ResourceManager.GetObject("473240", resourceCulture);
@@ -86,6 +116,46 @@ namespace PrjPetShop2020.Properties {
         internal static System.Drawing.Bitmap _62_628742_close_menu_close_circle_button_png_clipart {
             get {
                 object obj = ResourceManager.GetObject("62-628742_close-menu-close-circle-button-png-clipart", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap depositphotos_135506204_stock_illustration_vector_seamless_pattern_with_cute {
+            get {
+                object obj = ResourceManager.GetObject("depositphotos_135506204-stock-illustration-vector-seamless-pattern-with-cute", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download {
+            get {
+                object obj = ResourceManager.GetObject("download", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap download1 {
+            get {
+                object obj = ResourceManager.GetObject("download1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap kisspng_cat_dog_paw_patinhas_5b1106d1131139_4329250415278425130781 {
+            get {
+                object obj = ResourceManager.GetObject("kisspng-cat-dog-paw-patinhas-5b1106d1131139.4329250415278425130781", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

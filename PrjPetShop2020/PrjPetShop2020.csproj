@@ -50,10 +50,64 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form2.Designer.cs">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAgendamentos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAgendamentos.Designer.cs">
+      <DependentUpon>FormAgendamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAnimais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAnimais.Designer.cs">
+      <DependentUpon>FormAnimais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormCadCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormCadCliente.Designer.cs">
+      <DependentUpon>FormCadCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRacas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRacas.Designer.cs">
+      <DependentUpon>FormRacas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormServicos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormServicos.Designer.cs">
+      <DependentUpon>FormServicos.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form2.resx">
+      <DependentUpon>Form2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAgendamentos.resx">
+      <DependentUpon>FormAgendamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAnimais.resx">
+      <DependentUpon>FormAnimais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormCadCliente.resx">
+      <DependentUpon>FormCadCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRacas.resx">
+      <DependentUpon>FormRacas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormServicos.resx">
+      <DependentUpon>FormServicos.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -86,6 +140,27 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\unnamed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\depositphotos_135506204-stock-illustration-vector-seamless-pattern-with-cute.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-cat-dog-paw-patinhas-5b1106d1131139.4329250415278425130781.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\149-1493412_png-file-patinhas-de-cachorro-vetor.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\149-1493412_png-file-patinhas-de-cachorro-vetor1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\149-1493412_png-file-patinhas-de-cachorro-vetor2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download1.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

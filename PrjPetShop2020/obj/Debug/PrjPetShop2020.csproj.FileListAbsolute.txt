@@ -7,3 +7,9 @@ C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2
 C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.csproj.CoreCompileInputs.cache
 C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.exe
 C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.pdb
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.FormCadCliente.resources
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.FormAnimais.resources
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.FormRacas.resources
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.FormServicos.resources
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.Form2.resources
+C:\Users\Pichau\source\repos\PrjPetShop2020\PrjPetShop2020\obj\Debug\PrjPetShop2020.FormAgendamentos.resources
